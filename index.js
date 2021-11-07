@@ -158,16 +158,25 @@ const questions = () => {
             }
         },
     ])
+        //.then(answers => console.log(answers))
 }
-// fun questions function
-questions();
+
 
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { }
 
 // TODO: Create a function to initialize app
-function init() { }
+function init() {
+    console.log(`
+    ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
+     README GENERATOR 
+    ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
+    `);
+    //questions();
+}
 
 // Function call to initialize app
 init();
+    //.then(questions)
+    //.then(answers => console.log(answers));
