@@ -1,11 +1,65 @@
 // TODO: Include packages needed for this application
-const fs = require('fs');
 const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/generateMarkdown.js');
+
+// TODO: Create a function to initialize app
+function init() {
+    console.log(`
+    ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
+     README GENERATOR 
+    ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
+    `);
+
+    return inquirer.prompt([
+        {
+            type: "confirm",
+            name: "start",
+            message: "Would you like to create a README file?"
+        }
+    ])
+}
 
 // TODO: Create an array of questions for user input
 const questions = () => {
-    // use inquirer package and start prompts
     return inquirer.prompt([
+        {
+            type: "input",
+            name: "name",
+            message: "Enter your name. (Required)",
+            validate: nameInput => {
+                if (nameInput) {
+                    return true;
+                } else {
+                    return false;
+                }
+            }
+        },
+        {
+            type: "input",
+            name: "github",
+            message: "What is your GitHub username? (Required)",
+            validate: githubInput => {
+                if (githubInput) {
+                    return true;
+                } else {
+                    console.log("Please enter a GitHub username!");
+                    return false;
+                }
+            }
+        },
+        {
+            type: "input",
+            name: "email",
+            message: "What is your email address? (Required)",
+            validate: emailInput => {
+                if (emailInput) {
+                    return true;
+                } else {
+                    console.log("Please enter a title!");
+                    return false;
+                }
+            }
+        },
         {
             type: "input",
             name: "title",
@@ -114,32 +168,6 @@ const questions = () => {
             }
         },
         {
-            type: "input",
-            name: "github",
-            message: "What is your GitHub username? (Required)",
-            validate: githubInput => {
-                if (githubInput) {
-                    return true;
-                } else {
-                    console.log("Please enter a GitHub username!");
-                    return false;
-                }
-            }
-        },
-        {
-            type: "input",
-            name: "email",
-            message: "What is your email address? (Required)",
-            validate: emailInput => {
-                if (emailInput) {
-                    return true;
-                } else {
-                    console.log("Please enter a title!");
-                    return false;
-                }
-            }
-        },
-        {
             type: "confirm",
             name: "confirmQuestions",
             message: "Would you like to include any questions or additional info?",
@@ -156,9 +184,12 @@ const questions = () => {
                     return false;
                 }
             }
-        },
+        }
     ])
-        //.then(answers => console.log(answers))
+        .then(userData => {
+            console.log(userData);
+            return userData;
+        })
 }
 
 
@@ -166,17 +197,11 @@ const questions = () => {
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) { }
 
-// TODO: Create a function to initialize app
-function init() {
-    console.log(`
-    ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
-     README GENERATOR 
-    ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
-    `);
-    //questions();
-}
+
 
 // Function call to initialize app
-init();
-    //.then(questions)
-    //.then(answers => console.log(answers));
+init()
+    .then(questions)
+    .then(userData => {
+        return generateMarkdown(userData);
+    })
