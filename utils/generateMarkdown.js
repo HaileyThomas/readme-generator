@@ -53,9 +53,21 @@ ${data.credits}
 
 ## Contribution
 
+${data.contribution}
+
 ## Tests
 
+${data.test}
+
 ## Questions
+
+${data.questions}
+
+### Contact
+
+* [Email](mailto:${data.email}) - Email ${data.name} : ${data.email}
+* [GitHub](https://github.com/${data.github}) - GitHub username : ${data.github}
+
 `;
 }
 

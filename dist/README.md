@@ -1,8 +1,8 @@
-# fjdskl;a
+# Coolest Project Ever
 
 ## Description
 
-fdjskl;
+fjkdas;lf
 
 ## Table of Contents
 
@@ -13,29 +13,41 @@ fdjskl;
 
 ## Installation
 
-fdsjkl;
+fjkdasl;fd
 
 ## Usage
 
-fjkds;a
+fjdkla;
 
 ### Screenshot
 
-![Screenshot](fdsjkl;fds)
+![Screenshot](./assets/screenshot.png)
 
 ### Links
 
-* [DeployedLink](fjdsk;la) - link to deployed website
-* [GitHub](fkds;lafjs) - link to GitHub project
+* [DeployedLink](fjdkas;l) - link to deployed website
+* [GitHub](jfdkals;f) - link to GitHub project
 
 ## Credits
 
-fjkds;la
+fjkdasl;
 
 ## License
 
 ## Contribution
 
+fjkdl;as
+
 ## Tests
 
+fkdla;
+
 ## Questions
+
+fjka;s
+
+### Contact
+
+* [Email](mailto:haileyraebeauty@gmail.com - Email Hailey : haileyraebeauty@gmail.com
+* [GitHub](https://github.com/HaileyThomas) - GitHub username : HaileyThomas
+

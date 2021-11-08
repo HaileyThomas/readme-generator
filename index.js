@@ -85,7 +85,15 @@ const questions = () => {
         {
             type: "input",
             name: "description",
-            message: "Enter a description for your project.",
+            message: "Enter a description for your project. (Required)",
+            validate: descInput => {
+                if (descInput) {
+                    return true;
+                } else {
+                    console.log("Please enter a description!");
+                    return false;
+                }
+            }
         },
         {
             type: "input",
@@ -129,22 +137,9 @@ const questions = () => {
             message: "Enter usage information for your project.",
         },
         {
-            type: "confirm",
-            name: "confirmCredits",
-            message: "Would you like to include credits to collaborators, third-party assets, tutorials, etc?",
-            default: true
-        },
-        {
             type: "input",
             name: "credits",
-            message: "List and link to all credits, collaborators, tutorials, etc.",
-            when: ({ confirmCredits }) => {
-                if (confirmCredits) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
+            message: "List and link to all credits, collaborators, tutorials, etc."
         },
         {
             type: "checkbox",
@@ -159,40 +154,19 @@ const questions = () => {
             default: true
         },
         {
-            type: "confirm",
-            name: "confirmTest",
-            message: "Would you like to include testing instructions?",
-            default: false
+            type: "input",
+            name: "contribution",
+            message: "Please enter any additional guidelines for contributors."
         },
         {
             type: "input",
             name: "test",
-            message: "Enter testing instructions.",
-            when: ({ confirmTest }) => {
-                if (confirmTest) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
-        },
-        {
-            type: "confirm",
-            name: "confirmQuestions",
-            message: "Would you like to include any questions or additional info?",
-            default: false
+            message: "Enter testing instructions."
         },
         {
             type: "input",
             name: "questions",
-            message: "Enter questions/additional information.",
-            when: ({ confirmQuestions }) => {
-                if (confirmQuestions) {
-                    return true;
-                } else {
-                    return false;
-                }
-            }
+            message: "Enter questions/additional information."
         }
     ])
         .then(userData => {
