@@ -195,20 +195,12 @@ const questions = () => {
 
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {
-    return new Promise((resolve, reject) => {
-        fs.writeFile('./dist/README.md', fileContent, err => {
-            if (err) {
-                reject(err);
-                return;
-            }
-            resolve({
-                ok: true,
-                message: 'File created!'
-            });
-        });
+/*function writeToFile() {
+    fs.writeFile('./dist/README.md', generateMarkdown, err => {
+        if (err) throw err;
+        console.log('File Created!');
     });
-};
+};*/
 
 
 
@@ -216,5 +208,11 @@ function writeToFile(fileName, data) {
 init()
     .then(questions)
     .then(userData => {
-        return generateMarkdown(userData);
+        const markdown = generateMarkdown(userData);
+        fs.writeFile('./dist/README.md', markdown, err => {
+            if (err) throw err;
+            console.log('File Created!');
+        });
+        //return generateMarkdown(userData);
     })
+    //.then(writeToFile)
