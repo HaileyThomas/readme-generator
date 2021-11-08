@@ -1,4 +1,5 @@
 // TODO: Include packages needed for this application
+const fs = require('fs');
 const inquirer = require('inquirer');
 const generateMarkdown = require('./utils/generateMarkdown.js');
 
@@ -139,7 +140,7 @@ const questions = () => {
         },
         {
             type: "checkbox",
-            name: "licenses",
+            name: "license",
             message: "Select a license.",
             choices: ["Simple & Permissive (MIT)", "Community Contribution", "Sharing Improvements (GNU GPLv3)"]
         },
@@ -194,7 +195,20 @@ const questions = () => {
 
 
 // TODO: Create a function to write README file
-//function writeToFile(fileName, data) { }
+function writeToFile(fileName, data) {
+    return new Promise((resolve, reject) => {
+        fs.writeFile('./dist/README.md', fileContent, err => {
+            if (err) {
+                reject(err);
+                return;
+            }
+            resolve({
+                ok: true,
+                message: 'File created!'
+            });
+        });
+    });
+};
 
 
 
