@@ -18,6 +18,14 @@ function init() {
             message: "Would you like to create a README file?"
         }
     ])
+        .then((answer => {
+            if (answer.start === true) {
+                console.log("Let's get started!");
+            } else {
+                console.log("Have a nice day!");
+                process.exit();
+            }
+        }))
 }
 
 // TODO: Create an array of questions for user input
