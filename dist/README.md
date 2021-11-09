@@ -1,9 +1,9 @@
-# fjdksa;l
+# fjdksfjsd;af
 
 ## Description
 ![NPM](https://img.shields.io/npm/l/inquirer)
 
-jfdklsa;
+fdkjsafj;dsa
 
 ## Table of Contents
 
@@ -14,24 +14,24 @@ jfdklsa;
 
 ## Installation
 
-fjdksal;
+fdjk;lslfjdsk;af
 
 ## Usage
 
-fjdksal;
+fjkds;jf;a
 
 ### Screenshot
 
-![Screenshot](fjdksal;)
+![Screenshot](fdjksfjdsk;fj;da)
 
 ### Links
 
-* [DeployedLink](fjkdsal;) - link to deployed website
-* [GitHub](fjkdasl;) - link to GitHub project
+* [DeployedLink](fjdk;fj;dsaf) - link to deployed website
+* [GitHub](fkjdas;fjk;sd) - link to GitHub project
 
 ## Credits
 
-fkdsla;
+fjkdfdjkfa
 
 ## License
 ![NPM](https://img.shields.io/npm/l/inquirer)
@@ -41,7 +41,7 @@ fkdsla;
 
 MIT License
 
-Copyright (c) [2021] [fjkdsal]
+Copyright (c) [2021] [fjkdafjkds;l]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,20 +64,19 @@ SOFTWARE.
 
 ## Contribution
 
-fjkds;la
-
+fjkdjf;a
 
 
 ## Tests
 
-fjdksal;
+fkd;fajsd
 
 ## Questions
 
-fjdksa;l
+fjkda;lsf
 
 ### Contact
 
-* [Email](mailto:fjdksla;) - Email fjkdsal : fjdksla;
-* [GitHub](https://github.com/fjdksal;) - GitHub username : fjdksal;
+* [Email](mailto:fjdkjfkdsaf) - Email fjkdafjkds;l : fjdkjfkdsaf
+* [GitHub](https://github.com/fjdkslafj;ds) - GitHub username : fjdkslafj;ds
 

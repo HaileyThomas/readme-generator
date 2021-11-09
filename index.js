@@ -194,18 +194,6 @@ const questions = () => {
         })
 }
 
-
-
-// TODO: Create a function to write README file
-/*function writeToFile() {
-    fs.writeFile('./dist/README.md', generateMarkdown, err => {
-        if (err) throw err;
-        console.log('File Created!');
-    });
-};*/
-
-
-
 // Function call to initialize app
 init()
     .then(questions)
@@ -213,8 +201,11 @@ init()
         const markdown = generateMarkdown(userData);
         fs.writeFile('./dist/README.md', markdown, err => {
             if (err) throw err;
-            console.log('File Created!');
+            console.log(`
+    ╭══• ೋ•✧๑♡๑✧•ೋ •══╮
+       FILE CREATED!
+    check /dist folder
+    ╰══• ೋ•✧๑♡๑✧•ೋ •══╯
+            `);
         });
-        //return generateMarkdown(userData);
-    })
-    //.then(writeToFile)
+    });
