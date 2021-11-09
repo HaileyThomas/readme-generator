@@ -142,10 +142,30 @@ const questions = () => {
             message: "List and link to all credits, collaborators, tutorials, etc."
         },
         {
-            type: "checkbox",
+            type: "list",
             name: "license",
             message: "Select a license.",
-            choices: ["Simple & Permissive (MIT)", "Community Contribution", "Sharing Improvements (GNU GPLv3)"]
+            choices: [
+                {
+                    name: "Simple & Permissive (MIT)",
+                    value: 0
+                },
+                {
+                    name: "Community Contribution (Apache)",
+                    value: 1
+                },
+                {
+                    name: "Sharing Improvements (GNU GPLv3)",
+                    value: 2
+                },
+            ],
+            validate(answer) {
+                if (answer.length < 1) {
+                    return 'You must choose at least one license option.';
+                }
+
+                return true;
+            },
         },
         {
             type: "confirm",
