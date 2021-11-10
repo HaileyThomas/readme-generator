@@ -1,9 +1,9 @@
-# fjkds;lfjkds;l
+# Coolest Project Ever
 
 ## Description
-undefined
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-fjkd;slafjdk
+fkdlaf;jkd;sfjkds;jf;lskd
 
 ## Table of Contents
 
@@ -14,34 +14,34 @@ fjkd;slafjdk
 
 ## Installation
 
-fjdksl;afjkld;
+install and enjoyyy
 
 ## Usage
 
-fjkds;lfj;d
+fkjd;sfjdks;a
 
 ### Screenshot
 
-![Screenshot](jfdkl;sfjkds;)
+![Screenshot](jfkdls;fd)
 
 ### Links
 
-* [DeployedLink](fkfd;lsjfk;sdjf) - link to deployed website
-* [GitHub](fkl;dsjfkds;jf;sd) - link to GitHub project
+* [DeployedLink](fjkds;lafjds;) - link to deployed website
+* [GitHub](fjkdl;fjdk;slf) - link to GitHub project
 
 ## Credits
 
-jfkds;ljfksd;
+jfkd;asfjds
 
 ## License
-undefined
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[License](https://choosealicense.com/licenses/mit) - link to license
+[License](https://opensource.org/licenses/MIT) - link to license
 
 
 MIT License
 
-Copyright (c) [2021] [dfjkdsl;jks;]
+Copyright (c) [2021] [Hailey]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,7 +64,7 @@ SOFTWARE.
 
 ## Contribution
 
-fjkdsl;fjkd;s
+fjkd;las
 
 ### Contributor Covenant Code of Conduct
 
@@ -202,14 +202,14 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Tests
 
-fjkds;lajfdk;l
+fjkld;sajf
 
 ## Questions
 
-jfkdsl;fjd
+fjkds;lajf
 
 ### Contact
 
-* [Email](mailto:djfkl;sjfkdl;a) - Email dfjkdsl;jks; : djfkl;sjfkdl;a
-* [GitHub](https://github.com/fjkds;lfjkds;) - GitHub username : fjkds;lfjkds;
+* [Email](mailto:haileyraebeauty@gmail.com) - Email Hailey : haileyraebeauty@gmail.com
+* [GitHub](https://github.com/HaileyThomas) - GitHub username : HaileyThomas
 
