@@ -2,9 +2,11 @@ const fs = require('fs');
 
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
-function renderLicenseBadge(data) {
+function renderLicenseBadge(license) {
+
+
   //if (data.license === 0) {
-  return ("![NPM](https://img.shields.io/npm/l/inquirer)");
+  //return ("![NPM](https://img.shields.io/npm/l/inquirer)");
   //}
 }
 
