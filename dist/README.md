@@ -1,9 +1,9 @@
-# fjkdjfkd;slafjds
+# Coolest Project Ever
 
 ## Description
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-jfkdl;jasf;lds
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ## Table of Contents
 
@@ -14,76 +14,57 @@ jfkdl;jasf;lds
 
 ## Installation
 
-dfkjkd;jafds
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ## Usage
 
-fjkdl;jfsd
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ### Screenshot
 
-![Screenshot](jdkfl;ajfkd;s)
+![Screenshot](./assets/screenshot.png)
 
 ### Links
 
-* [DeployedLink](jdfk;ljaskdfaj) - link to deployed website
-* [GitHub](jfk;dlsjfk;lsd) - link to GitHub project
+* [DeployedLink](http://www.website.com) - link to deployed website
+* [GitHub](http://www.github.com/repo) - link to GitHub project
 
 ## Credits
 
-fjkdls;jfkdsa
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-[License](https://www.gnu.org/licenses/gpl-3.0) - link to license
+[License](https://opensource.org/licenses/MIT) - link to license
 
 
-Copyright (C) [2021] [ffjdkjfl;dsja]
+MIT License
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Copyright (c) [2021] [Hailey]
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see [licenses](https://www.gnu.org/licenses/).
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-Also add information on how to contact you by electronic and paper mail.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
-If the program does terminal interaction, make it output a short
-notice like this when it starts in an interactive mode:
-
-<program>  Copyright (C) [2021] [ffjdkjfl;dsja]
-This program comes with ABSOLUTELY NO WARRANTY; for details type 'show w'.
-This is free software, and you are welcome to redistribute it
-under certain conditions; type 'show c' for details.
-
-The hypothetical commands 'show w' and 'show c' should show the appropriate
-parts of the General Public License.  Of course, your program's commands
-might be different; for a GUI interface, you would use an "about box".
-
-You should also get your employer (if you work as a programmer) or school,
-if any, to sign a "copyright disclaimer" for the program, if necessary.
-For more information on this, and how to apply and follow the GNU GPL, see
-[licenses](https://www.gnu.org/licenses/).
-
-The GNU General Public License does not permit incorporating your program
-into proprietary programs.  If your program is a subroutine library, you
-may consider it more useful to permit linking proprietary applications with
-the library.  If this is what you want to do, use the GNU Lesser General
-Public License instead of this License.  But first, please read
-[licenses](https://www.gnu.org/licenses/why-not-lgpl.html).
-    
 
 ## Contribution
 
-fjkd;lsaf
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ### Contributor Covenant Code of Conduct
 
@@ -221,14 +202,14 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Tests
 
-jfkls;a
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ## Questions
 
-jfkdlsa;fjad
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
 
 ### Contact
 
-* [Email](mailto:jfkd;jafkd;sf) - Email ffjdkjfl;dsja : jfkd;jafkd;sf
-* [GitHub](https://github.com/fjkdfj;kd;f) - GitHub username : fjkdfj;kd;f
+* [Email](mailto:haileyraebeauty@gmail.com) - Email Hailey : haileyraebeauty@gmail.com
+* [GitHub](https://github.com/HaileyThomas) - GitHub username : HaileyThomas
 
