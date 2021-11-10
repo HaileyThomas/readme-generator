@@ -1,9 +1,9 @@
-# Coolest Project Ever
+# fjkdl;sf
 
 ## Description
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+jfkdl;sf
 
 ## Table of Contents
 
@@ -14,24 +14,24 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus e
 
 ## Installation
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjkdlfjd;s
 
 ## Usage
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjdkals;
 
 ### Screenshot
 
-![Screenshot](./assets/screenshot.png)
+![Screenshot](../assets/screenshot.png)
 
 ### Links
 
-* [DeployedLink](http://www.website.com) - link to deployed website
-* [GitHub](http://www.github.com/repo) - link to GitHub project
+* [DeployedLink](fjdkla;s) - link to deployed website
+* [GitHub](fdlkf;ds) - link to GitHub project
 
 ## Credits
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjdkal;f
 
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -41,7 +41,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus e
 
 MIT License
 
-Copyright (c) [2021] [Hailey]
+Copyright (c) [2021] [Hailey Thomas]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -64,7 +64,7 @@ SOFTWARE.
 
 ## Contribution
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjkdl;f
 
 ### Contributor Covenant Code of Conduct
 
@@ -202,14 +202,14 @@ For answers to common questions about this code of conduct, see the FAQ at
 
 ## Tests
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjdkls;
 
 ## Questions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a luctus eros, in laoreet lectus. Mauris urna magna, tempus nec euismod elementum, iaculis vel tortor. Morbi sagittis metus vel tristique sodales. Nulla bibendum mauris id eros maximus, nec bibendum libero posuere. Cras pulvinar ante ac risus posuere porta. Nullam in erat elementum, fermentum lacus a, semper nibh. Fusce vitae bibendum risus. Nullam ipsum augue, suscipit eget vehicula et, facilisis sed tellus. Donec convallis malesuada est, non ultrices ex tempus eu.
+fjkdlsa;
 
 ### Contact
 
-* [Email](mailto:haileyraebeauty@gmail.com) - Email Hailey : haileyraebeauty@gmail.com
+* [Email](mailto:haileyraebeauty@gmail.com) - Email Hailey Thomas : haileyraebeauty@gmail.com
 * [GitHub](https://github.com/HaileyThomas) - GitHub username : HaileyThomas
 
