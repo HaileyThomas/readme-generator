@@ -22,9 +22,9 @@ To use, download files and run with Node.js in your command line.
 
 ### Screenshot
 
-* ![Screenshot](../assets/screenshot.png)
-* ![Screenshot2](../assets/screenshot2.png)
-* ![Screenshot3](../assets/screenshot3.png)
+* ![Screenshot](./assets/screenshot.png)
+* ![Screenshot2](./assets/screenshot2.png)
+* ![Screenshot3](./assets/screenshot3.png)
 
 * [Video](https://drive.google.com/file/d/16C_DrYIsjICtYChvnUesDZo81bwmbaMh/view) - view video walk through
 
